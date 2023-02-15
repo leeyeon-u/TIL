@@ -112,5 +112,3 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 *  readables: 수신한 데이터를 가진 소켓
 *  writeables: 블로킹되지 않고 데이터를 전송할 수 있는 소켓
 *  exceptions: 예외 상황이 발생한 소켓
-
-
